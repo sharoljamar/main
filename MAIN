@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"                                        
 
-#EXTM3U billed-msg="DILARANG KONGSI TANPA KEBENARAN - SJ"
+#EXTM3U billed-msg="	HAKMILIK GRIDSTUDIO DILARANG KONGSI TANPA KEBENARAN - SJ	"
 
 
 ###################### SPORTS ######################
@@ -2065,7 +2065,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/mnx-hd/index.ts
 
 ############## MIX SPORTS ###############
 
-#EXTINF:-1 tvg-id="SkySportTennis.de" group-logo="https://i.ibb.co/4srDNNs/SJ.png" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Mix SportsS",True Tennis
+#EXTINF:-1 tvg-id="SkySportTennis.de" group-logo="https://i.ibb.co/4srDNNs/SJ.png" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="Mix Sports",True Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
